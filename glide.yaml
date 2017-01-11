@@ -1,0 +1,4 @@
+package: github.com/funnythingz/tiraura-api
+import:
+    - package: goji.io
+    - package: goji.io/pat

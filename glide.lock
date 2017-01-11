@@ -1,0 +1,8 @@
+hash: c52b94be87eea80043f7958e1d156baeed569e45e06731204a942ff65fe3fba3
+updated: 2017-01-11T15:52:38.074167279+09:00
+imports:
+- name: goji.io
+  version: 0d89ff54b2c18c9c4ba530e32496aef902d3c6cd
+  subpackages:
+  - pat
+testImports: []
